@@ -1,0 +1,8 @@
+<appian-plugin name="AS400 Select Query" key="com.appiancorp.plugins.sc.as400v2">
+    <plugin-info>
+        <description>A function for performing any AS400 SELECT query over JDBC.</description>
+        <vendor name="Appian" url="https://www.appian.com/" />
+        <version>1.0.13</version>
+    </plugin-info>
+    <function key="as400queryv2" class="com.appiancorp.plugins.sc.as400v2.QueryAS400v2" />
+</appian-plugin>
